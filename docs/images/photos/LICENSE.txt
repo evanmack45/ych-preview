@@ -1,0 +1,45 @@
+AustinTXCityHall.JPG
+Photographer: WhisperToMe.
+Source: https://commons.wikimedia.org/wiki/File:AustinTXCityHall.JPG
+Original: https://upload.wikimedia.org/wikipedia/commons/9/97/AustinTXCityHall.JPG
+The copyright holder explicitly dedicates the work to the public domain worldwide;
+where this is not legally possible, the holder permits use for any purpose without
+conditions unless required by law. See the source page for the exact dedication.
+Shooting date is unverified; the 2008 upload date is not a capture-date claim.
+
+city-hall-320.webp, city-hall-480.webp, city-hall-640.webp, city-hall-960.webp, and
+city-hall-1440.webp are cropped, resized and WebP-encoded from that file for y’all, city hall.
+Crop from2272×1704: left0,top250,width2272,height1278.
+No current meeting/condition or photographer endorsement is implied.
+
+----------------------------------------------------------------------
+Dais redesign photos (site/public/images/photos/dais/). Added 2026-11-25.
+All are real photographs. None are AI-generated or AI-edited.
+
+dais/cityhall-2025.webp, dais/cityhall-2025-480.webp
+Subject: Austin City Hall, Second Street entrance, December 2025.
+Photographer: ajay_suresh (Flickr), via Wikimedia Commons.
+Source: https://commons.wikimedia.org/wiki/File:Austin_City_Hall_(54987519110).jpg
+License: Creative Commons Attribution 4.0 (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+Changes: cropped to 4:3, resized, WebP-encoded.
+
+dais/dais-wood.webp, dais/dais-wood-480.webp
+Subject: front of the Council dais, Sept. 1, 2022 (District 3 nameplate: Sabino Renteria).
+Photographer: CurtisAustinish, via Wikimedia Commons.
+Source: https://commons.wikimedia.org/wiki/File:Councilsession-11.jpg
+License: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0), https://creativecommons.org/licenses/by-sa/4.0/
+Changes: cropped to the desk front (the council member in the original is cropped out),
+resized, WebP-encoded. This derivative is shared under CC BY-SA 4.0.
+
+dais/plaza.webp, dais/plaza-480.webp
+Subject: Austin City Hall and its public plaza.
+Photographer: Carol M. Highsmith, Library of Congress (LCCN 2014632502).
+Source: https://commons.wikimedia.org/wiki/File:The_modernist_Austin_City_Hall_and_Public_Plaza_in_Austin,_Texas_LCCN2014632502.tif
+License: public domain (Highsmith gift to the Library of Congress; no known restrictions).
+Changes: cropped, resized, WebP-encoded.
+
+dais/cityhall-hs.webp, dais/cityhall-hs-960.webp
+Same Carol M. Highsmith photo, used as the meeting-page hero.
+Changes: 16:9 crop and a lake-blue duotone tint, resized, WebP-encoded.
+
+Not used: no wide photo of the Council chamber interior was found under a free license.
